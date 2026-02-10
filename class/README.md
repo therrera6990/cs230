@@ -1,3 +1,5 @@
+Thomas Herrera
+Aslan Aliyev
 # Lab 04 - SOP/POS and KMaps
 
 In this lab, you’ve learned how to apply KMaps, Sum Of Products and Products of
